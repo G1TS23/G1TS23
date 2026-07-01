@@ -38,10 +38,10 @@ Reconversion professionnelle après 20 ans en gestion d'équipe · Cap sur l'arc
 
 ### 📌 Projets phares
 
-- **[radiant-radiation](https://github.com/G1TS23/radiant-radiation)** — Puzzle minimaliste en terminal : retourner des blocs 2×2 jusqu'à obtenir une grille uniforme. CI/CD, Docker multi-stage, tests (Vitest), i18n.
+- **[radiant-radiation](https://github.com/G1TS23/radiant-radiation)** — Puzzle minimaliste en terminal : retourner des blocs 2×2 jusqu'à obtenir une grille uniforme. CI/CD, Docker multi-stage, tests (Vitest), i18n. [Démo](https://radiant-radiation.netlify.app)
 - **[Pont Chaban](https://github.com/G1TS23/pont-chaban)** — Calendrier des fermetures du pont Chaban-Delmas à Bordeaux, en Vue.js. [Démo](https://pont-chaban.netlify.app)
 - **[Library](https://github.com/G1TS23/Library)** — Application de gestion de bibliothèque en Quarkus (CDI, Panache, Repository pattern, OpenLibraryClient via `@RegisterRestClient`).
-- **[Démineur](https://github.com/G1TS23/DEMINEUR)** — Jeu de démineur en Angular/TypeScript (génération de grille, flood fill, gestion d'état).
+- **[Démineur](https://github.com/G1TS23/DEMINEUR)** — Jeu de démineur en Angular/TypeScript (génération de grille, flood fill, gestion d'état). [Démo](https://boom-boom-boom.netlify.app)
 
 ### 🚲 Fun fact
 
