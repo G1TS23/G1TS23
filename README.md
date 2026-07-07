@@ -3,7 +3,7 @@
 Développeur Full Stack en alternance chez CGI (Bordeaux) · M1 Développement, Architecture Logicielle<br>
 Reconversion professionnelle après 20 ans en gestion d'équipe · Cap sur l'architecture logicielle et le lead technique
 
-undefined
+[![Portfolio](https://img.shields.io/badge/Portfolio-olivier.falahi.org-BC52EE?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzaDE0YTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yWk02LjQgOGExLjYgMS42IDAgMSAwIDMuMiAwIDEuNiAxLjYgMCAxIDAtMy4yIDBaTTE0LjQgOGExLjYgMS42IDAgMSAwIDMuMiAwIDEuNiAxLjYgMCAxIDAtMy4yIDBaTTEwLjQgMTJhMS42IDEuNiAwIDEgMCAzLjIgMCAxLjYgMS42IDAgMSAwLTMuMiAwWk02LjQgMTZhMS42IDEuNiAwIDEgMCAzLjIgMCAxLjYgMS42IDAgMSAwLTMuMiAwWk0xNC40IDE2YTEuNiAxLjYgMCAxIDAgMy4yIDAgMS42IDEuNiAwIDEgMC0zLjIgMFoiLz48L3N2Zz4%3D)](https://olivier.falahi.org)
 
 ---
 
