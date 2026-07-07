@@ -3,6 +3,8 @@
 Développeur Full Stack en alternance chez CGI (Bordeaux) · M1 Développement, Architecture Logicielle<br>
 Reconversion professionnelle après 20 ans en gestion d'équipe · Cap sur l'architecture logicielle et le lead technique
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-olivier.falahi.org-BC52EE?logo=astro&logoColor=white)](https://olivier.falahi.org)
+
 ---
 
 ### 🎯 Ce que je fais
@@ -38,6 +40,7 @@ Reconversion professionnelle après 20 ans en gestion d'équipe · Cap sur l'arc
 
 ### 📌 Projets phares
 
+- **[Portfolio aléatoire](https://olivier.falahi.org)** — Mon portfolio qui se réinvente à chaque visite : 11 univers de design tirés au sort, écran de chargement animé façon tableau d'aéroport (Solari). Astro (100 % statique), CI/CD, tests (Vitest). [Code](https://github.com/G1TS23/randomfolio)
 - **[radiant-radiation](https://github.com/G1TS23/radiant-radiation)** — Puzzle minimaliste en terminal : retourner des blocs 2×2 jusqu'à obtenir une grille uniforme. CI/CD, Docker multi-stage, tests (Vitest), i18n. [Démo](https://radiant-radiation.netlify.app)
 - **[Pont Chaban](https://github.com/G1TS23/pont-chaban)** — Calendrier des fermetures du pont Chaban-Delmas à Bordeaux, en Vue.js. [Démo](https://pont-chaban.netlify.app)
 - **[Library](https://github.com/G1TS23/Library)** — Application de gestion de bibliothèque en Quarkus (CDI, Panache, Repository pattern, OpenLibraryClient via `@RegisterRestClient`).
