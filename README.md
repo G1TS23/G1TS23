@@ -1,5 +1,7 @@
 ## 👋 Salut, moi c'est Olivier
 
+🇫🇷 Français · [🇬🇧 English](README.en.md)
+
 Développeur Full Stack en alternance chez CGI (Bordeaux) · M1 Développement, Architecture Logicielle<br>
 Reconversion professionnelle après 20 ans en gestion d'équipe · Cap sur l'architecture logicielle et le lead technique
 
