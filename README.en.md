@@ -43,6 +43,7 @@ Career changer after 20 years in team management · Heading toward software arch
 ### 📌 Featured projects
 
 - **[Random portfolio](https://github.com/G1TS23/randomfolio)** — My portfolio that reinvents itself on every visit: 11 design worlds picked at random, with an animated split-flap (Solari board) loading screen. Astro (100% static), CI/CD, tests (Vitest). [Demo](https://olivier.falahi.org)
+- **[Kaamelott - Read-Through Bookmark](https://github.com/G1TS23/kaamelott-marque-page)** — Jump straight to the episode you want in Shisheyu's Kaamelott read-throughs, search by title, summary or character. Astro + Svelte 5, 100% static, CI/CD, tests, accessibility. [Demo](https://kaamelott.falahi.org)
 - **[radiant-radiation](https://github.com/G1TS23/radiant-radiation)** — A minimalist terminal puzzle: flip 2×2 blocks until the grid is uniform. CI/CD, multi-stage Docker, tests (Vitest), i18n. [Demo](https://radiant-radiation.netlify.app)
 - **[Pont Chaban](https://github.com/G1TS23/pont-chaban)** — Closure schedule for the Chaban-Delmas bridge in Bordeaux, built with Vue.js. [Demo](https://pont-chaban.netlify.app)
 - **[Library](https://github.com/G1TS23/Library)** — Library management app in Quarkus (CDI, Panache, Repository pattern, OpenLibraryClient via `@RegisterRestClient`).
