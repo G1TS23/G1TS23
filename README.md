@@ -47,6 +47,7 @@ Reconversion professionnelle après 20 ans en gestion d'équipe · Cap sur l'arc
 - **[Pont Chaban](https://github.com/G1TS23/pont-chaban)** — Calendrier des fermetures du pont Chaban-Delmas à Bordeaux, en Vue.js. [Démo](https://pont-chaban.netlify.app)
 - **[Library](https://github.com/G1TS23/Library)** — Application de gestion de bibliothèque en Quarkus (CDI, Panache, Repository pattern, OpenLibraryClient via `@RegisterRestClient`).
 - **[Démineur](https://github.com/G1TS23/DEMINEUR)** — Jeu de démineur en Angular/TypeScript (génération de grille, flood fill, gestion d'état). [Démo](https://boom-boom-boom.netlify.app)
+- **[Le Marque-Page de la Relecture](https://github.com/G1TS23/kaamelott-marque-page)** — Navigue directement à l'épisode voulu dans les lectures-interprétations de Kaamelott par Shisheyu, recherche par titre, résumé ou personnage. Astro + Svelte 5, 100 % statique, CI/CD, tests, accessibilité. [Démo](https://kaamelott.falahi.org)
 
 ### 🚲 Fun fact
 
